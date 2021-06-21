@@ -1,1 +1,1 @@
-Arquivos utilizados durante testes de  integração com ws med.
+Arquivos utilizados durante testes de  integração winth0r.
